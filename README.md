@@ -1,4 +1,4 @@
-# Financial_Dashboard
+# Ecommerce_Dashboard
 Visualisation about sales
 1) A tracking and analysis tool for online sales data was developed.
 2) Customised the worksheet by utilising filters and slicers to dive down into complex parameters.
